@@ -1,0 +1,12 @@
+In This project only admins can * DO THE CRUD Programs *
+Email id for admins:-		password
+sukhpreet.saini2020@gmail.com	123456789
+gurnoor.saini@gmail.com		123456789
+harman@gmail.com		123456789
+
+The general can only add there posts and edit it.
+General Email id:-		passwords
+sahib.singh@gmail.com		123456789
+sukhmani.kaur@gmail.com		123456789
+jasman.singh@gmail.com		123456789
+	
