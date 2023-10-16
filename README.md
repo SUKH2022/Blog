@@ -43,7 +43,7 @@ git clone https://github.com/SUKH2022/Blog.git
 
 3. Configure your database connection in `config.php`.
 
-4. Open a web server (e.g., Apache) and ensure it's configured to run PHP.
+4. Open a web server (e.g., Apache or MySQL) and ensure it's configured to run PHP.
 
 5. Access the website in your browser.
 
