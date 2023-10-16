@@ -49,7 +49,8 @@ git clone https://github.com/SUKH2022/Blog.git
 
 ## Screenshots
 
-![2023-10-16 (2)](https://github.com/SUKH2022/Blog/assets/119287107/1b23a742-88c8-4387-9a2a-2981b870d57d)
+![2023-10-16 (5)](https://github.com/SUKH2022/Blog/assets/119287107/e6840b3c-e3ac-40dc-ab56-f9e50d020dad)
+
 ![2023-10-16 (3)](https://github.com/SUKH2022/Blog/assets/119287107/20fac766-9785-445b-b908-24ff1a897131)
 
 ![2023-10-16 (4)](https://github.com/SUKH2022/Blog/assets/119287107/e526d38d-dc85-4964-a98c-f20143d4b10a)
